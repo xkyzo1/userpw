@@ -1,27 +1,12 @@
 [
   {
     "username": "admin",
-    "password": "123456",
+    "password": "difa",
     "role": "admin"
   },
   {
-    "username": "kyzo",
-    "password": "rahasia",
-    "role": "user"
-  },
-  {
-    "username": "kontol",
-    "password": "sdsdsdassdasa",
-    "role": "admin"
-  },
-  {
-    "username": "dasdsdss",
-    "password": "dsdsdsdasdda",
-    "role": "admin"
-  },
-  {
-    "username": "sahshshh",
-    "password": "dadasdd",
+    "username": "free",
+    "password": "a1a2a3a4a5",
     "role": "user"
   }
 ]
